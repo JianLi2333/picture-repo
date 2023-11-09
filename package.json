@@ -1,6 +1,6 @@
 {
   "name": "xiangcaiblog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "满世界的香菜的博客库",
   "main": "index.js",
   "scripts": {
