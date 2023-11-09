@@ -1,0 +1,22 @@
+{
+  "name": "xiangcaiblog",
+  "version": "1.0.0",
+  "description": "满世界的香菜的博客库",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JianLi2333/picture-repo.git"
+  },
+  "keywords": [
+    "xiangcaiblog"
+  ],
+  "author": "xiangcai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JianLi2333/picture-repo/issues"
+  },
+  "homepage": "https://github.com/JianLi2333/picture-repo#readme"
+}
